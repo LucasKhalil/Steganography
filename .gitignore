@@ -1,0 +1,10 @@
+# Arquivos de áudio
+*.wav
+*.mp3
+*.ogg
+
+# Resultados de separação de áudio
+mod_magnitude/separated/
+
+# Outputs grandes de notebooks
+mod_magnitude/mod_magnitude.ipynb
